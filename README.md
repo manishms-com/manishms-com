@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Manish Pal.
 
-![GitHub followers](https://img.shields.io/github/followers/manishms?style=social)
+![GitHub followers](https://img.shields.io/github/followers/manishms-com?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 
